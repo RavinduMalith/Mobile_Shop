@@ -1,0 +1,37 @@
+E:\c#\final project\bin\Debug\final project.exe.config
+E:\c#\final project\bin\Debug\final project.exe
+E:\c#\final project\bin\Debug\final project.pdb
+E:\c#\final project\obj\Debug\final project.csproj.AssemblyReference.cache
+E:\c#\final project\obj\Debug\final_project.Form1.resources
+E:\c#\final project\obj\Debug\final_project.Properties.Resources.resources
+E:\c#\final project\obj\Debug\final project.csproj.GenerateResource.cache
+E:\c#\final project\obj\Debug\final project.csproj.CoreCompileInputs.cache
+E:\c#\final project\obj\Debug\final project.exe
+E:\c#\final project\obj\Debug\final project.pdb
+E:\c#\final project\obj\Debug\final_project.AllUserControl.UC_AddNewPhone.resources
+E:\c#\final project\bin\Debug\Guna.UI2.dll
+E:\c#\final project\obj\Debug\final project.csproj.CopyComplete
+E:\c#\final project\obj\Debug\final_project.AllUserControl.UC_Costomer.resources
+E:\c#\final project\obj\Debug\final_project.AllUserControl.UC_Stock.resources
+E:\c#\final project\obj\Debug\final_project.AllUserControl.UC_CostomerRecords.resources
+E:\c#\final project\obj\Debug\final_project.AllUserControl.UC_Deleterecords.resources
+E:\c#\final project\obj\Debug\final_project.AllUserControl.UC_First.resources
+C:\c#\final project\bin\Debug\final project.exe.config
+C:\c#\final project\bin\Debug\final project.exe
+C:\c#\final project\bin\Debug\final project.pdb
+C:\c#\final project\bin\Debug\Guna.UI2.dll
+C:\c#\final project\obj\Debug\final project.csproj.AssemblyReference.cache
+C:\c#\final project\obj\Debug\final_project.AllUserControl.UC_AddNewPhone.resources
+C:\c#\final project\obj\Debug\final_project.AllUserControl.UC_Costomer.resources
+C:\c#\final project\obj\Debug\final_project.AllUserControl.UC_Deleterecords.resources
+C:\c#\final project\obj\Debug\final_project.AllUserControl.UC_First.resources
+C:\c#\final project\obj\Debug\final_project.AllUserControl.UC_Stock.resources
+C:\c#\final project\obj\Debug\final_project.AllUserControl.UC_CostomerRecords.resources
+C:\c#\final project\obj\Debug\final_project.Form1.resources
+C:\c#\final project\obj\Debug\final_project.Properties.Resources.resources
+C:\c#\final project\obj\Debug\final project.csproj.GenerateResource.cache
+C:\c#\final project\obj\Debug\final project.csproj.CoreCompileInputs.cache
+C:\c#\final project\obj\Debug\final project.csproj.CopyComplete
+C:\c#\final project\obj\Debug\final project.exe
+C:\c#\final project\obj\Debug\final project.pdb
+C:\c#\final project\obj\Debug\final_project.AllUserControl.UC_Employee.resources
